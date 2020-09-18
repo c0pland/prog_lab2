@@ -1,0 +1,4 @@
+﻿  lab2.cpp
+C:\Users\user\Documents\b4\prog\lab2\lab2\lab2.cpp(41,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Documents\b4\prog\lab2\lab2\lab2.cpp(73,9): warning C4101: sums: неиспользованная локальная переменная
+  lab2.vcxproj -> C:\Users\user\Documents\b4\prog\lab2\lab2\Debug\lab2.exe
